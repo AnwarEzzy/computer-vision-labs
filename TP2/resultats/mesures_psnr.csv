@@ -1,0 +1,18 @@
+﻿Méthode;PSNR (dB)
+Bruit poivre et sel;20.7069
+Moyenneur 3x3;25.8813
+Moyenneur 5x5;23.8891
+Moyenneur 7x7;22.3911
+Gaussien 3x3;26.3893
+Gaussien 5x5;25.8595
+Gaussien 7x7;24.8828
+Gaussien sigma=1;26.0482
+Gaussien sigma=5;19.2020
+Gaussien sigma=10;16.7566
+Median 3x3;30.0078
+Median 5x5;26.4617
+Median 7x7;24.5839
+Bruit gaussien sigma=25;21.0714
+Median 5x5 sur bruit gaussien;25.2045
+Moyenneur 5x5 sur bruit gaussien;23.9951
+Gaussien 5x5 sur bruit gaussien;26.0517
